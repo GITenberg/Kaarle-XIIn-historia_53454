@@ -1,5 +1,5 @@
 _repo: Kaarle-XIIn-historia_53454
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Histoire de Charles XII. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1940
     gutenberg_agent_id: '43228'
     url: http://www.gutenberg.org/2009/agents/43228
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Voltaire
@@ -23,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Voltaire
     - http://fr.wikipedia.org/wiki/Voltaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53454#Kaarle-XIIn-historia
 gutenberg_issued: '2016-11-05'
 gutenberg_type: Text
 identifiers:
