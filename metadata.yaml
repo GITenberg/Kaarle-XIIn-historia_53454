@@ -1,0 +1,41 @@
+_repo: Kaarle-XIIn-historia_53454
+_version: 0.0.1
+alternative_title: Histoire de Charles XII. Finnish
+contributor:
+  translator:
+    agent_name: Kallio, O. A. (Oskar Albin)
+    alias: Kallio, Oskar Albin
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '43228'
+    url: http://www.gutenberg.org/2009/agents/43228
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, François Marie
+    - Arouet, Francois Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Voltaire
+    - http://fr.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_issued: '2016-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53454'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sweden -- History -- Charles XII, 1697-1718'
+- !lcsh 'Charles XII, King of Sweden, 1682-1718'
+- !lcc 'DL'
+- !lcsh 'Sweden -- Kings and rulers -- Biography'
+- GITenberg
+title: Kaarle XII:n historia
+url: http://www.gutenberg.org/ebooks/53454
